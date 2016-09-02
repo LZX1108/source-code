@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="resources">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../path-to-success/path-to-tomcat/out/test/path-to-tomcat/webapp-fragments-empty-absolute-ordering/WEB-INF/lib/resources.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

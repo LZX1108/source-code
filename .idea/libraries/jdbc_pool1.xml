@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="jdbc-pool1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/path-to-tomcat/output/jdbc-pool/tomcat-jdbc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/path-to-tomcat/output/jdbc-pool/tomcat-jdbc-src.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

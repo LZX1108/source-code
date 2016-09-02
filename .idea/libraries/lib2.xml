@@ -1,0 +1,33 @@
+<component name="libraryTable">
+  <library name="lib2">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../path-to-success/path-to-tomcat/output/build/lib/websocket-api.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../path-to-success/path-to-tomcat/output/build/lib/catalina-tribes.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../path-to-success/path-to-tomcat/output/build/lib/tomcat-i18n-es.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../path-to-success/path-to-tomcat/output/build/lib/el-api.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../path-to-success/path-to-tomcat/output/build/lib/tomcat-util-scan.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../path-to-success/path-to-tomcat/output/build/lib/catalina.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../path-to-success/path-to-tomcat/output/build/lib/jsp-api.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../path-to-success/path-to-tomcat/output/build/lib/tomcat-api.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../path-to-success/path-to-tomcat/output/build/lib/tomcat-dbcp.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../path-to-success/path-to-tomcat/output/build/lib/tomcat-coyote.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../path-to-success/path-to-tomcat/output/build/lib/ecj-4.5.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../path-to-success/path-to-tomcat/output/build/lib/tomcat-websocket.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../path-to-success/path-to-tomcat/output/build/lib/tomcat-jni.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../path-to-success/path-to-tomcat/output/build/lib/catalina-ha.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../path-to-success/path-to-tomcat/output/build/lib/catalina-ant.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../path-to-success/path-to-tomcat/output/build/lib/annotations-api.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../path-to-success/path-to-tomcat/output/build/lib/tomcat-i18n-ja.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../path-to-success/path-to-tomcat/output/build/lib/catalina-storeconfig.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../path-to-success/path-to-tomcat/output/build/lib/jasper-el.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../path-to-success/path-to-tomcat/output/build/lib/tomcat-i18n-fr.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../path-to-success/path-to-tomcat/output/build/lib/tomcat-jdbc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../path-to-success/path-to-tomcat/output/build/lib/servlet-api.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../path-to-success/path-to-tomcat/output/build/lib/jaspic-api.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../path-to-success/path-to-tomcat/output/build/lib/tomcat-util.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../path-to-success/path-to-tomcat/output/build/lib/jasper.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

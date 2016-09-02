@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="test-lib3">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/path-to-tomcat/out/test/path-to-tomcat/webapp/WEB-INF/lib/test-lib.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
