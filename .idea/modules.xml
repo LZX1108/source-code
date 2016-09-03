@@ -2,8 +2,15 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/path-to-tomcat/webapps/examples/WEB-INF/WEB-INF.iml" filepath="$PROJECT_DIR$/path-to-tomcat/webapps/examples/WEB-INF/WEB-INF.iml" />
+      <module fileurl="file://$PROJECT_DIR$/path-to-tomcat/webapps/examples/WEB-INF/jsp/jsp.iml" filepath="$PROJECT_DIR$/path-to-tomcat/webapps/examples/WEB-INF/jsp/jsp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/path-to-tomcat/modules/jdbc-pool/src/main/main.iml" filepath="$PROJECT_DIR$/path-to-tomcat/modules/jdbc-pool/src/main/main.iml" />
       <module fileurl="file://$PROJECT_DIR$/path-to-tomcat/path-to-tomcat.iml" filepath="$PROJECT_DIR$/path-to-tomcat/path-to-tomcat.iml" />
+      <module fileurl="file://$PROJECT_DIR$/path-to-tomcat/path-to-tomcat.iml" filepath="$PROJECT_DIR$/path-to-tomcat/path-to-tomcat.iml" />
+      <module fileurl="file://$PROJECT_DIR$/path-to-tomcat/webapps/examples/jsp/plugin/plugin.iml" filepath="$PROJECT_DIR$/path-to-tomcat/webapps/examples/jsp/plugin/plugin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/path-to-tomcat/webapps/docs/appdev/sample/sample.iml" filepath="$PROJECT_DIR$/path-to-tomcat/webapps/docs/appdev/sample/sample.iml" />
       <module fileurl="file://$PROJECT_DIR$/source-code.iml" filepath="$PROJECT_DIR$/source-code.iml" />
+      <module fileurl="file://$PROJECT_DIR$/path-to-tomcat/modules/jdbc-pool/src/test/test.iml" filepath="$PROJECT_DIR$/path-to-tomcat/modules/jdbc-pool/src/test/test.iml" />
     </modules>
   </component>
 </project>
