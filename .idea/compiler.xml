@@ -23,10 +23,23 @@
         <outputRelativeToContentRoot value="true" />
         <processorPath useClasspath="true" />
         <module name="source-code" />
+        <module name="spring-cloud-config-client" />
+        <module name="spring-cloud-config-monitor" />
+        <module name="spring-cloud-config-sample" />
+        <module name="spring-cloud-config-server" />
+        <module name="spring-cloud-starter-config" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel target="1.8">
       <module name="source-code" target="1.5" />
+      <module name="spring-cloud-config" target="1.5" />
+      <module name="spring-cloud-config-client" target="1.5" />
+      <module name="spring-cloud-config-dependencies" target="1.5" />
+      <module name="spring-cloud-config-docs" target="1.5" />
+      <module name="spring-cloud-config-monitor" target="1.5" />
+      <module name="spring-cloud-config-sample" target="1.5" />
+      <module name="spring-cloud-config-server" target="1.5" />
+      <module name="spring-cloud-starter-config" target="1.5" />
     </bytecodeTargetLevel>
   </component>
 </project>

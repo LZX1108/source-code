@@ -9,13 +9,20 @@
       <module fileurl="file://$PROJECT_DIR$/path-to-tomcat/modules/jdbc-pool/src/main/main.iml" filepath="$PROJECT_DIR$/path-to-tomcat/modules/jdbc-pool/src/main/main.iml" />
       <module fileurl="file://$PROJECT_DIR$/path-to-tomcat/modules/jdbc-pool/src/main/main1.iml" filepath="$PROJECT_DIR$/path-to-tomcat/modules/jdbc-pool/src/main/main1.iml" />
       <module fileurl="file://$PROJECT_DIR$/path-to-tomcat/path-to-tomcat.iml" filepath="$PROJECT_DIR$/path-to-tomcat/path-to-tomcat.iml" />
-      <module fileurl="file://$PROJECT_DIR$/path-to-tomcat/path-to-tomcat.iml" filepath="$PROJECT_DIR$/path-to-tomcat/path-to-tomcat.iml" />
       <module fileurl="file://$PROJECT_DIR$/path-to-tomcat/path-to-tomcat1.iml" filepath="$PROJECT_DIR$/path-to-tomcat/path-to-tomcat1.iml" />
       <module fileurl="file://$PROJECT_DIR$/path-to-tomcat/webapps/examples/jsp/plugin/plugin.iml" filepath="$PROJECT_DIR$/path-to-tomcat/webapps/examples/jsp/plugin/plugin.iml" />
       <module fileurl="file://$PROJECT_DIR$/path-to-tomcat/webapps/examples/jsp/plugin/plugin1.iml" filepath="$PROJECT_DIR$/path-to-tomcat/webapps/examples/jsp/plugin/plugin1.iml" />
       <module fileurl="file://$PROJECT_DIR$/path-to-tomcat/webapps/docs/appdev/sample/sample.iml" filepath="$PROJECT_DIR$/path-to-tomcat/webapps/docs/appdev/sample/sample.iml" />
       <module fileurl="file://$PROJECT_DIR$/path-to-tomcat/webapps/docs/appdev/sample/sample1.iml" filepath="$PROJECT_DIR$/path-to-tomcat/webapps/docs/appdev/sample/sample1.iml" />
       <module fileurl="file://$PROJECT_DIR$/source-code.iml" filepath="$PROJECT_DIR$/source-code.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-cloud-config-master/spring-cloud-config.iml" filepath="$PROJECT_DIR$/spring-cloud-config-master/spring-cloud-config.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-cloud-config-master/spring-cloud-config-client/spring-cloud-config-client.iml" filepath="$PROJECT_DIR$/spring-cloud-config-master/spring-cloud-config-client/spring-cloud-config-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-cloud-config-master/spring-cloud-config-dependencies/spring-cloud-config-dependencies.iml" filepath="$PROJECT_DIR$/spring-cloud-config-master/spring-cloud-config-dependencies/spring-cloud-config-dependencies.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-cloud-config-master/docs/spring-cloud-config-docs.iml" filepath="$PROJECT_DIR$/spring-cloud-config-master/docs/spring-cloud-config-docs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-cloud-config-master/spring-cloud-config-monitor/spring-cloud-config-monitor.iml" filepath="$PROJECT_DIR$/spring-cloud-config-master/spring-cloud-config-monitor/spring-cloud-config-monitor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-cloud-config-master/spring-cloud-config-sample/spring-cloud-config-sample.iml" filepath="$PROJECT_DIR$/spring-cloud-config-master/spring-cloud-config-sample/spring-cloud-config-sample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-cloud-config-master/spring-cloud-config-server/spring-cloud-config-server.iml" filepath="$PROJECT_DIR$/spring-cloud-config-master/spring-cloud-config-server/spring-cloud-config-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-cloud-config-master/spring-cloud-starter-config/spring-cloud-starter-config.iml" filepath="$PROJECT_DIR$/spring-cloud-config-master/spring-cloud-starter-config/spring-cloud-starter-config.iml" />
       <module fileurl="file://$PROJECT_DIR$/path-to-tomcat/modules/jdbc-pool/src/test/test.iml" filepath="$PROJECT_DIR$/path-to-tomcat/modules/jdbc-pool/src/test/test.iml" />
       <module fileurl="file://$PROJECT_DIR$/path-to-tomcat/modules/jdbc-pool/src/test/test1.iml" filepath="$PROJECT_DIR$/path-to-tomcat/modules/jdbc-pool/src/test/test1.iml" />
     </modules>
